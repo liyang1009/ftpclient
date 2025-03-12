@@ -1,2 +1,2 @@
 # ftpclient
-the simple c++ ftp client
+The simple c++ ftp client toy
